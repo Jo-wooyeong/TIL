@@ -13,3 +13,4 @@ Today I Learned
 - [이벤트](https://github.com/Jo-wooyeong/TIL/tree/main/Vue/이벤트.md)
 - [computed_vs_methods](https://github.com/Jo-wooyeong/TIL/tree/main/Vue/computed_vs_methods.md)
 - [v-model](https://github.com/Jo-wooyeong/TIL/tree/main/Vue/v-model.md)
+- [props](https://github.com/Jo-wooyeong/TIL/tree/main/Vue/props.md)
