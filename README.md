@@ -6,6 +6,9 @@ Today I Learned
 
 ### [JavaSciprt](https://github.com/Jo-wooyeong/TIL/tree/main/JavaScript)
 - [객체지향](https://github.com/Jo-wooyeong/TIL/tree/main/JavaScript/객체지향)
+    - [앤티티](https://github.com/Jo-wooyeong/TIL/tree/main/JavaScript/객체지향/앤티티.md)
+- [reduce()](https://github.com/Jo-wooyeong/TIL/tree/main/JavaScript/reduce().md)
+
 
 ### [Vue.js](https://github.com/Jo-wooyeong/TIL/tree/main/Vue)
 - [반복](https://github.com/Jo-wooyeong/TIL/tree/main/Vue/반복.md)
@@ -20,3 +23,6 @@ Today I Learned
 ### [PHP](https://github.com/Jo-wooyeong/TIL/tree/main/PHP)
 - [라우팅](https://github.com/Jo-wooyeong/TIL/tree/main/PHP/라우팅.md)
 - [프로젝트 시작](https://github.com/Jo-wooyeong/TIL/tree/main/PHP/프로젝트_시작.md)
+
+### [Git](https://github.com/Jo-wooyeong/TIL/tree/main/Git)
+- [pull](https://github.com/Jo-wooyeong/TIL/tree/main/Git/pull.md)
