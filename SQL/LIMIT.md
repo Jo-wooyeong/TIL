@@ -8,3 +8,5 @@
 | LIMIT n | 상위 n개 조회 | LIMIT 5 (1~5위) |
 | LIMIT n OFFSET m | m개 건너뛰고 n개 조회 | LIMIT 5 OFFSET 10 (11~15위) |
 | LIMIT m n | m번째부터 n개 (MySQL 전용) | LIMIT 10, 5 (11~15위) |
+
+테이블에 데이터가 얼마나 있는지 모르는 상태에서 SELECT *를 날리는 건 위험합니다. 항상 LIMIT 10 정도를 붙여서 데이터의 모양새를 먼저 확인하는 습관을 들이세요.
